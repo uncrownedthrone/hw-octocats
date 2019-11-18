@@ -9,9 +9,9 @@ import Heisencat from '../images/cat-heisenberg.png'
 import Stormtroopocat from '../images/cat-stormtrooper.png'
 
 const images = [
-  { name: 'DaftpunktocatThomas', imageUrl: DaftpunktocatThomas },
-  { name: 'DaftpunktocatGuy', imageUrl: DaftpunktocatGuy },
-  { name: 'DoctocatBrown', imageUrl: DoctocatBrown },
+  { name: 'Daftpunktocat-Thomas', imageUrl: DaftpunktocatThomas },
+  { name: 'Daftpunktocat-Guy', imageUrl: DaftpunktocatGuy },
+  { name: 'Doctocat Brown', imageUrl: DoctocatBrown },
   { name: 'Grinchtocat', imageUrl: Grinchtocat },
   { name: 'Heisencat', imageUrl: Heisencat },
   { name: 'Stormtroopocat', imageUrl: Stormtroopocat }
