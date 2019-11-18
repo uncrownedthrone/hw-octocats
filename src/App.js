@@ -1,9 +1,15 @@
 import React, { Component } from 'react'
-import HelloWorld from './components/HelloWorld'
+import CreateNav from './components/CreateNav'
+import MakePartTwo from './components/MakePartTwo'
 
 class App extends Component {
   render() {
-    return <HelloWorld />
+    return (
+      <main>
+        <CreateNav />
+        <MakePartTwo />
+      </main>
+    )
   }
 }
 
